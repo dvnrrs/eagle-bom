@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EagleBOM", "EagleBOM\EagleBOM.csproj", "{FCC7E6E3-7B29-49DF-924E-FBAC079F1EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC7E6E3-7B29-49DF-924E-FBAC079F1EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC7E6E3-7B29-49DF-924E-FBAC079F1EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC7E6E3-7B29-49DF-924E-FBAC079F1EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC7E6E3-7B29-49DF-924E-FBAC079F1EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDE510C-86F0-46DB-A186-8DFCED6949BC}
+	EndGlobalSection
+EndGlobal
