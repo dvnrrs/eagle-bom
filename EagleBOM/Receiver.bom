@@ -1,0 +1,90 @@
+All parts in design:
+
+C1                            0.01uF       Samsung Electro-Mechanics     CL21B103KAANNNC               187-CL21B103KAANNNC            2296    0.09    1    0.09
+C3                            10uF         Samsung Electro-Mechanics     CL31B106KBHNNNE               187-CL31B106KBHNNNE            1569    0.31    1    0.31
+C4                            33uF         KEMET                         ESZ336M200AH4EA               80-ESZ336M200AH4EA             2058    0.71    1    0.71
+C5,C6                         1uF          KEMET                         MMK5105K63J04L16.5TR18        80-MMK5105K63J4LTR             2665    0.60    2    1.20
+C9,C10                        2.2uF        WIMA                          MKS2C042201K00KSSD            505-MKS2C042201KKSSD           2327    0.97    2    1.94
+C14,C15                       3300pF       TDK                           C2012C0G2A332J125AA           810-C2012C0G2A332J            29097    0.18    2    0.36
+C16                           22uF         Samsung Electro-Mechanics     CL31B226MPHNNNE               187-CL31B226MPHNNNE          153056    0.33    1    0.33
+C2,C7,C8,C17,C21,C25,C28,C30, 0.1uF        Samsung Electro-Mechanics     CL21B104KACNNND               187-CL21B104KACNNND            9950    0.09   12    1.08
+C33,C35,C36,C37
+C11,C18                       1uF          Samsung Electro-Mechanics     CL21B105KBFNNNF               187-CL21B105KBFNNNF           51775    0.11    2    0.22
+C19                           100pF        Samsung Electro-Mechanics     CL21C101JC61PNC               187-CL21C101JC61PNC          112195    0.10    1    0.10
+C12,C13,C20,C27,C29,C31,C32,  10uF         Samsung Electro-Mechanics     CL21B106KOQNNNE               187-CL21B106KOQNNNE            4238    0.25    8    2.00
+C34
+C22                           4700pF       Murata Electronics            GRM2165C1H472JA1D             81-GRM2165C1H472JA1D          48387    0.24    1    0.24
+C23,C26                       10pF         Samsung Electro-Mechanics     CL21C100CBANNNC               187-CL21C100CBANNNC           60182    0.09    2    0.18
+C24                           0.068uF      Murata Electronics            GRM31C5C1H683JA01             81-GRM31C5C1H683JA01          20081    0.53    1    0.53
+D1                            -            Bourns                        SMBJ5.0A-Q                    652-SMBJ5.0A-Q                24684    0.40    1    0.40
+D2,D3                         -            Wurth Elektronik              150080GS75000                 710-150080GS75000             60818    0.15    2    0.30
+D4,D5,D6,D7                   -            Diodes Incorporated           DESD5V0U1BA-7                 621-DESD5V0U1BA-7              3746    0.23    4    0.92
+D8,D10,D11                    -            Wurth Elektronik              150080SS75000                 710-150080SS75000              9900    0.15    3    0.45
+J1                            -            Amphenol FCI                  10118192-0001LF               649-10118192-0001LF           57168    0.36    1    0.36
+J2,J3                         -            Kycon                         KLPX-0848A-2-O-G              806-KLPX-0848A-2-O-G            363    0.69    2    1.38
+J4,J5                         -            Toshiba                       TORX1350A(F)                  757-TORX1350AF                   32   11.93    2   23.86
+J6                            -            Kycon                         KLPX-0848A-2-W-G              806-KLPX-0848A-2-W-G            946    0.89    1    0.89
+J7                            -            Kycon                         KLPX-0848A-2-R                806-KLPX-0848A-2-R              279    0.72    1    0.72
+J8                            -            TE Connectivity               5103308-1                     571-5103308-1                  4985    1.07    1    1.07
+J9                            -            TE Connectivity               5103308-3                     571-5103308-3                  4919    1.63    1    1.63
+L1                            -            Taiyo Yuden                   FBMJ2125HM330-TV              963-FBMJ2125HM330-TV           4685    0.14    1    0.14
+L2,L3                         47uH         TDK                           MLZ2012M470WT000              810-MLZ2012M470WT000           4944    0.11    2    0.22
+R1                            2.7k         YAGEO                         RC0805FR-072K7L               603-RC0805FR-072K7L           28278    0.09    1    0.09
+R2                            1.5k         YAGEO                         RC0805JR-101K5L               603-RC0805JR-101K5L           19911    0.09    1    0.09
+R3,R4                         75           YAGEO                         RT0805DRD0775RL               603-RT0805DRD0775RL            6204    0.23    2    0.46
+R9,R10,R15,R18                4.99k        YAGEO                         RT0805FRE074K99L              603-RT0805FRE074K99L           5551    0.09    4    0.36
+R11,R12                       2k           YAGEO                         RT0805FRE072KL                603-RT0805FRE072KL             2405    0.10    2    0.20
+R13,R14                       200          YAGEO                         RT0805DRD07200RL              603-RT0805DRD07200RL           4210    0.23    2    0.46
+R16,R17,R20                   10k          YAGEO                         RC0805JR-0710KL               603-RC0805JR-0710KL          401791    0.09    3    0.27
+R5,R6,R7,R8,R21               20k          YAGEO                         RT0805FRE0720KL               603-RT0805FRE0720KL            3067    0.09    5    0.45
+R22                           22           YAGEO                         RC0805JR-0722RL               603-RC0805JR-0722RL           32123    0.09    1    0.09
+R23                           68           YAGEO                         RC0805JR-0768RL               603-RC0805JR-0768RL           34980    0.09    1    0.09
+R28                           0            YAGEO                         RC0805JR-100RL                603-RC0805JR-100RL            29579    0.09    1    0.09
+R19,R26,R27,R29               680          YAGEO                         RT0805FRE13680RL              603-RT0805FRE13680RL           1351    0.10    4    0.40
+T1,T2                         -            Murata Power Solutions        DA101MC-R                     580-DA101MC-R                  1352    1.30    2    2.60
+U1                            -            Diodes Incorporated           AZ1117IH-3.3TRG1              621-AZ1117IH-3.3TRG1         113718    0.34    1    0.34
+U2                            -            Analog Devices                LT1678CS8#PBF                 584-LT1678CS8#PBF                43    5.67    1    5.67
+U3                            -            Espressif Systems             ESP32-WROVER(M203QL3264PH3Q0) 356-ESP32-WROVER              12746    3.56    1    3.56
+U4                            -            Texas Instruments             PCM9211PT                     595-PCM9211PT                     0    0.00    1    0.00
+U5                            -            Texas Instruments             SRC4190IDBR                   595-SRC4190IDBR                  24    6.52    1    6.52
+X1                            -            ABRACON                       ABM10-24.576MHZ-E20-T         815-ABM10-24.576E20T           1888    1.19    1    1.19
+
+Most expensive parts:
+
+J4,J5                         -            Toshiba                       TORX1350A(F)                  757-TORX1350AF                   32   11.93    2   23.86
+U5                            -            Texas Instruments             SRC4190IDBR                   595-SRC4190IDBR                  24    6.52    1    6.52
+U2                            -            Analog Devices                LT1678CS8#PBF                 584-LT1678CS8#PBF                43    5.67    1    5.67
+U3                            -            Espressif Systems             ESP32-WROVER(M203QL3264PH3Q0) 356-ESP32-WROVER              12746    3.56    1    3.56
+T1,T2                         -            Murata Power Solutions        DA101MC-R                     580-DA101MC-R                  1352    1.30    2    2.60
+C20,C29,C31,C27,C13,C12,C32,C3410uF         Samsung Electro-Mechanics     CL21B106KOQNNNE               187-CL21B106KOQNNNE            4238    0.25    8    2.00
+C9,C10                        2.2uF        WIMA                          MKS2C042201K00KSSD            505-MKS2C042201KKSSD           2327    0.97    2    1.94
+J9                            -            TE Connectivity               5103308-3                     571-5103308-3                  4919    1.63    1    1.63
+J2,J3                         -            Kycon                         KLPX-0848A-2-O-G              806-KLPX-0848A-2-O-G            363    0.69    2    1.38
+C5,C6                         1uF          KEMET                         MMK5105K63J04L16.5TR18        80-MMK5105K63J4LTR             2665    0.60    2    1.20
+
+Total price: 64.56
+
+Packages in use:
+
+    SMT/0805                                                    C1,C2,C7,C8,C11,C12,C13,C14,C15,C17,C18,C19,C20,C21,C22,C23,C25,C26,C27,C28,C29,C30,C31,C32,C33,C34
+                                                                C35,C36,C37,L1,L2,L3,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22
+                                                                R23,R26,R27,R28,R29
+    SMT/0805/DIODE                                              D2,D3,D8,D10,D11
+    SMT/1206                                                    C3,C16,C24
+    SMT/CONNECTOR/USB/MICRO-B/AMPHENOL/10118192-0001LF          J1
+    SMT/CRYSTAL/ABRACON/ABM10                                   X1
+    SMT/DIODE/DO-214AA                                          D1
+    SMT/DIODE/SOD-323/BIDIRECTIONAL                             D4,D5,D6,D7
+    SMT/IC/LQFP-48                                              U4
+    SMT/IC/SOIC-8                                               U2
+    SMT/IC/SSOP-28                                              U5
+    SMT/MODULE/ESPRESSIF/ESP32-WROVER-E                         U3
+    SMT/TRANSFORMER/MURATA/DA100MC                              T1,T2
+    SMT/TRANSISTOR/SOT-223-3                                    U1
+    TH/CAPACITOR/POLARIZED/KEMET/ESZ/H4                         C4
+    TH/CAPACITOR/UNPOLARIZED/KEMET/MMK/J04                      C5,C6
+    TH/CAPACITOR/UNPOLARIZED/WIMA/MKS-2/7.2X7.2                 C9,C10
+    TH/CONNECTOR/HEADER/2X5/TE/AMP-LATCH                        J8
+    TH/CONNECTOR/HEADER/2X8/TE/AMP-LATCH                        J9
+    TH/CONNECTOR/JIS/F05/TOSHIBA/TORX1350A(F)                   J4,J5
+    TH/CONNECTOR/RCA/KYCON/KLPX-0848A-2                         J2,J3,J6,J7

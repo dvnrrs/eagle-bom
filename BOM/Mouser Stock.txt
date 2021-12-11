@@ -1,0 +1,114 @@
+187-CL10A226MO7JZNC			82764		0.59	0603												22uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 22uF+/-20% 16V X5R 1608
+187-CL10A226MPCNUBE			565046		0.33	0603												22uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 22uF+/-20% 10V X5R 1608
+187-CL10B104JB8NNNC			442602		0.09	0603												0.1uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF+/-5% 50V X7R 1608
+187-CL10B104KB8NNNC			221795		0.09	0603												0.1uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF+/-10% 50V X7R 1608
+187-CL10B105KA8NNNL			37560		0.09	0603												1uF		Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 1uF+/-10% 25V X7R 1608
+187-CL10C101JB8NNNC			252782		0.09	0603												100pF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 100pF+/-5% 50V C0G 1608
+187-CL10C102JB8NNND			82588		0.09	0603												1000pF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 1nF+/-5% 50V C0G 1608
+187-CL21A106KAYNNNF			74104		0.18	0805												10uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF+/-10% 25V X5R 2012
+187-CL21B103KAANNNC			2246/8		0.09	0805												0.01uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 10nF+/-10% 25V X7R 2012
+187-CL21B104KACNNND			7880/34		0.09	0805												0.1uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF+/-10% 25V X7R 2012
+187-CL21B105KBFNNNF			10/7		0.11	0805												1uF		Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 1uF+/-10% 50V X7R 2012
+187-CL21B106KOQNNNE			4238/20		0.25	0805												10uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF+/-10% 16V X7R 2012
+187-CL21C100CBANNNC			56162/8		0.09	0805												10pF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 10pF+/-0.25pF 50V C0G 2012
+187-CL21C101JC61PNC			112195/8	0.10	0805												100pF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 100pF+/-5% 100V C0G 2012 AEC-Q200
+187-CL31B106KAHZW6E			53431/8		0.31	1206												10uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF+/-10% 25V X7R 3216
+187-CL31B106KBHNNNE			449			0.31	1206												10uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF+/-10% 50V X7R 3216
+187-CL31B226MPHNNNE			171939/8	0.39	1206												22uF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 22uF+/-20% 10V X7R 3216
+187-CL31C332JHHNFNE			45485		0.17	1206												3300pF	Samsung Electro-Mechanics		Multilayer Ceramic Capacitors MLCC - SMD/SMT 3.3nF+/-5% 630V C0G 3216
+356-ESP32-WROVER			12488/1		4.02	MODULE/ESPRESSIF/ESP32-WROVER-E						-		Espressif Systems				Multiprotocol Modules SMD Module, ESP32-D0WDQ6, 64Mbits PSRAM, 32Mbits SPI flash, PCB Antenna
+356-ESP32WRVE26464PC		422			3.22	MODULE/ESPRESSIF/ESP32-WROVER-E						-		Espressif Systems				WiFi Modules - 802.11 SMD Module ESP32-WROVER-E, ESP32-D0WD-V3, 3.3V 64Mbit PSRAM, 8 MB SPI flash, PCB Antenna
+460-ES9028Q2M				100			12.25	SMT/IC/ESS/ES9028Q2M								-		ESS Technology					Audio D/A Converter ICs Sabre 32 Reference Stereo low power audiophile DAC
+460-ES9038Q2M				1388		16.80	SMT/IC/ESS/ES9038Q2M								-		ESS Technology					Audio D/A Converter ICs Sabre 32 Reference Stereo low power audiophile DAC w/DOP
+490-RCJ-042					1359		1.39	TH/CONNECTOR/RCA/CUI/RCJ-04							-		CUI Devices						RCA Phono Connectors RCA Connectors
+490-RCJ-043					1136		1.39	TH/CONNECTOR/RCA/CUI/RCJ-04							-		CUI Devices						RCA Phono Connectors RCA Connectors
+490-RCJ-047					1325		1.39	TH/CONNECTOR/RCA/CUI/RCJ-04							-		CUI Devices						RCA Phono Connectors RCA Connectors
+505-MKS2C042201KKSSD		2327/2		0.97	TH/CAPACITOR/UNPOLARIZED/WIMA/MKS-2/7.2X7.2			2.2uF	WIMA							Film Capacitors 2.2uF 63 Volts 10%
+513-NJM2068M				1449		0.81	SMT/IC/DMP8											-		NJR								Operational Amplifiers - Op Amps Dual Low Noise
+513-NJM4556AM				2129		0.98	SMT/IC/DMP8											-		NJR								Operational Amplifiers - Op Amps Dual High Current
+513-NJM4556AM-TE1			341			0.51	SMT/IC/SOIC-8										-		NJR								Operational Amplifiers - Op Amps Dual High Current
+571-5103308-1				5695		1.07	CONNECTOR/HEADER/2X5/TE/AMP-LATCH					-		TE Connectivity					Headers & Wire Housings HDR VERT DOUBLE 10P low profile
+571-5103308-3				3484/1		1.63	TH/CONNECTOR/HEADER/2X8/TE/AMP-LATCH				-		TE Connectivity					Headers & Wire Housings 16P 2 ROW HEADER LP
+571-5103309-1				12527		1.14	CONNECTOR/HEADER/2X5/TE/AMP-LATCH					-		TE Connectivity					Headers & Wire Housings HDR VERT DOUBLE 10P low profile
+579-MCP23008-E/SO			1915		1.26	SMT/IC/MICROCHIP/MCP23008							-		Microchip Technology			Interface - I/O Expanders In/Out I2C int
+580-DA101MC-R				1352/2		1.30	SMT/TRANSFORMER/MURATA/DA100MC						-		Murata Power Solutions			Audio Transformers / Signal Transformers 1:1 turn 1-1.59mH SM 0.22uH 2000Vrms 6Pin
+584-LT1678CS8#PBF			43/1		5.92	SMT/IC/SOIC-8										-		Analog Devices					Precision Amplifiers Dual Low Noise R-to-R Pre OA
+595-NE5532AD				901			1.20	SMT/IC/SOIC-8										-		Texas Instruments				Operational Amplifiers - Op Amps Dual Low-Noise Op Amp
+595-PCM9211PT				0			0.00	SMT/IC/LQFP-48										-		Texas Instruments				Audio Transmitters, Receivers, Transceivers 216kHz Dig Aud Inter face Transceiver
+595-SRC4190IDBR				30			7.41	SMT/IC/SSOP-28										-		Texas Instruments				Audio Sample Rate Converters 192kHz St Asynch Smpl Rate Converters
+603-RC0603FR-071K37L		19900		0.09	0603												1.37k	YAGEO							Thick Film Resistors 1.37 kOhms 100mW 0603 1%
+603-RC0603FR-0722RL			49771		0.09	0603												22		YAGEO							Thick Film Resistors 22 Ohms 100mW 0603 1%
+603-RC0603FR-1068RL			17946		0.09	0603												68		YAGEO							Thick Film Resistors 68 Ohms 100-200 mW 0603 1%
+603-RC0603FR-1347KL			6101		0.09	0603												47k		YAGEO							Thick Film Resistors - SMD 47 kOhms 100-200 mW 0603 1%
+603-RC0603JR-0720KL			61497		0.09	0603												-		YAGEO							Thick Film Resistors 20 kOhms 100 mW 0603 5%
+603-RC0805FR-072K7L			28278		0.09	0805												2.7k	YAGEO							Thick Film Resistors - SMD 2.7 kOhms 125 mW 0805 1%
+603-RC0805FR-1375RL			6621		0.11	0805												75		YAGEO							Thick Film Resistors 75 Ohms 250 mW 0805 1%
+603-RC0805JR-0710KL			645391/15	0.09	0805												10k		YAGEO							Thick Film Resistors - SMD 10 kOhms 125 mW 0805 5%
+603-RC0805JR-0722RL			32123/9		0.09	0805												22		YAGEO							Thick Film Resistors - SMD 22 Ohms 125 mW 0805 5%
+603-RC0805JR-0768RL			34980/8		0.09	0805												68		YAGEO							Thick Film Resistors - SMD 68 Ohms 125 mW 0805 5%
+603-RC0805JR-0775RL			24973/6		0.09	0805												75		YAGEO							Thick Film Resistors 75 Ohms 125 mW 0805 5%
+603-RC0805JR-100RL			29475/9		0.09	0805												0		YAGEO							Thick Film Resistors - SMD 0 Ohms 250 mW 0805 5%
+603-RC0805JR-101K5L			19909/8		0.09	0805												1.5k	YAGEO							Thick Film Resistors - SMD 1.5 kOhms 250 mW 0805 5%
+603-RC0805JR-10680RL		19621		0.09	0805												680		YAGEO							Thick Film Resistors - SMD 680 Ohms 250 mW 0805 5%
+603-RC0805JR-132K7L			18771/8		0.09	0805												2.7k	YAGEO							Thick Film Resistors 2.7kOhms 1/8W 0805 5%
+603-RT0603BRD071K1L			2650		0.32	0603												1.1k	YAGEO							Thin Film Resistors - SMD 1/10W 1.1K ohm 0.1% 25ppm
+603-RT0603BRD071K91L		9957		0.33	0603												1.91k	YAGEO							Thin Film Resistors 1/10W 1.91K ohm .1% 25ppm
+603-RT0603BRD07226RL		19			0.33	0603												226		YAGEO							Thin Film Resistors - SMD 1/10W 226 ohm .1% 25ppm
+603-RT0603BRD07274RL		1290		0.33	0603												274		YAGEO							Thin Film Resistors 1/10W 274 ohm .1% 25ppm
+603-RT0603BRD072K21L		11677		0.33	0603												2.21k	YAGEO							Thin Film Resistors - SMD 1/10W 2.21K ohm .1% 25ppm
+603-RT0603BRD072K37L		295			0.33	0603												2.37k	YAGEO							Thin Film Resistors 1/10W 2.37K ohm .1% 25ppm
+603-RT0603BRD07402RL		9558		0.28	0603												402		YAGEO							Thin Film Resistors - SMD 1/10W 402 ohm .1% 25ppm
+603-RT0603BRD074K12L		311			0.33	0603												4.12k	YAGEO							Thin Film Resistors 1/10W 4.12K ohm .1% 25ppm
+603-RT0603BRD07576RL		9672		0.33	0603												576		YAGEO							Thin Film Resistors - SMD 1/10W 576 ohm .1% 25ppm
+603-RT0603BRD07590RL		5193		0.33	0603												590		YAGEO							Thin Film Resistors - SMD 1/10W 590 ohm .1% 25ppm
+603-RT0603BRE074K64L		3400		0.43	0603												4.64k	YAGEO							Thin Film Resistors 4.64 kOhms 50PPM/C 100mW 0603 10%
+603-RT0603DRD071K62L		2446		0.18	0603												1.62k	YAGEO							Thin Film Resistors
+603-RT0603DRD07221RL		5421		0.18	0603												221		YAGEO							Thin Film Resistors
+603-RT0603DRD07274RL		4955		0.18	0603												274		YAGEO							Thin Film Resistors
+603-RT0603FRE0710KL			10715		0.09	0603												10k		YAGEO							Thin Film Resistors 10K ohm 1% 1/10W
+603-RT0603FRE0720KL			836			0.09	0603												20k		YAGEO							Thin Film Resistors 1/10W 20K ohm 1% 50ppm
+603-RT0603FRE1320KL			10041		0.17	0603												20k		YAGEO							Thin Film Resistors 1/10W 20K ohm 1% 50ppm
+603-RT0805DRD07200RL		4210		0.23	0805												200		YAGEO							Thin Film Resistors - SMD 200 OHM .5% 25PPM 1/8W
+603-RT0805DRD0775RL			6204		0.23	0805												75		YAGEO							Thin Film Resistors - SMD
+603-RT0805FRE07200RL		3820/8		0.10	0805												200		YAGEO							Thin Film Resistors - SMD 1/8W 200 ohm 1% 50ppm
+603-RT0805FRE0720KL			11104/14	0.09	0805												20k		YAGEO							Thin Film Resistors - SMD 1/8W 20K ohm 1% 50ppm
+603-RT0805FRE072KL			27185/8		0.10	0805												2k		YAGEO							Thin Film Resistors - SMD 1/8W 2K ohm 1% 50ppm
+603-RT0805FRE074K99L		15521/14	0.10	0805												4.99k	YAGEO							Thin Film Resistors - SMD 1/8W 4.99K ohm 1% 50ppm
+603-RT0805FRE13680RL		1351/10		0.10	0805												680		YAGEO							Thin Film Resistors - SMD 680 ohm 1% 50 ppm Thin Film
+621-AZ1117IH-3.3TRG1		112953/8	0.34	SMT/TRANSISTOR/SOT-223-3							-		Diodes Incorporated				LDO Voltage Regulators LDO BJT HiCurr 1.35A 10Hz to 10KHz
+621-DESD5V0U1BA-7			3652/16		0.23	SMT/DIODE/SOD-323/BIDIRECTIONAL						-		Diodes Incorporated				ESD Suppressors / TVS Diodes Low Cap Bi TVS ESD 1 Ch 3A 250pD
+649-10118192-0001LF			46498/0		0.36	SMT/CONNECTOR/USB/MICRO-B/AMPHENOL/10118192-0001LF	-		Amphenol FCI					USB Connectors 5P MICRO USB TYPE B RECEPTACLE
+649-10118192-0002LF			25124/4		0.39	SMT/CONNECTOR/USB/MICRO-B/AMPHENOL/10118192-0001LF	-		Amphenol FCI					USB Connectors MICRO USB B-TYPE
+649-75869-232LF				2772		0.63	TH/CONNECTOR/HEADER/2X4/AMPHENOL/75869				-		Amphenol FCI					Headers & Wire Housings 8P DR VERT SHRD HDR TIN
+652-SMBJ5.0A-Q				24684/8		0.40	SMT/DIODE/DO-214AA									-		Bourns							ESD Suppressors / TVS Diodes DIO TVS VRWM 5.0V 600W UNIDIR SMB AECQ
+667-ERA-3AEB3920V			26			0.31	0603												392		Panasonic						Thin Film Resistors 0603 392ohm 0.1% 25ppm
+667-ERA-3AEB4641V			423			0.27	0603												4.64k	Panasonic						Thin Film Resistors 0603 4.64Kohm 0.1% 25ppm
+710-150080GS75000			60718/6		0.15	0805/DIODE											-		Wurth Elektronik				Standard LEDs - SMD WL-SMCW SMDMono TpVw Waterclr 0805 Green
+710-150080SS75000			9245/8		0.15	0805/DIODE											-		Wurth Elektronik				Standard LEDs - SMD WL-SMCW SMDMono TpVw Waterclr 0805 SprRed
+710-865230140001			2372		0.16	CAPACITOR/WURTH/WCAP-AS5H/4X5.5						22uF	Wurth Elektronik				Aluminium Electrolytic Capacitors - SMD WCAP-AS5H 22uF 6.3V 20% SMD/SMT
+710-885012207071			13101		0.09	0805												0.068uF	Wurth Elektronik				Multilayer Ceramic Capacitors MLCC - SMD/SMT WCAP-CSGP 0.068uF 0805 10% 25V MLCC
+754-RR0816P-4121D60H		10588		0.09	0603												4.12k	Susumu							Thin Film Resistors 1/16W 4.12Kohm 0.5% 25ppm
+754-RR0816P-4641D65H		46502		0.09	0603												4.64k	Susumu							Thin Film Resistors 1/16W 4.64Kohm 0.5% 25ppm
+757-TORX1350AF				0/2			12.32	TH/CONNECTOR/JIS/F05/TOSHIBA/TORX1350A(F)			-		Toshiba							Fibre Optic Transmitters, Receivers, Transceivers GP Optical Module 10Mb 4.75V-5.25V
+777-CS4350-CZZ				1095		6.36	SMT/IC/TSSOP-24										-		Cirrus Logic					Audio D/A Converter ICs Stereo DAC w/PLL 24-Bit 192kHz 105dB
+80-C0603C153J3G				34413		0.38	0603												0.015uF	KEMET							Multilayer Ceramic Capacitors MLCC - SMD/SMT 25V 0.015uF C0G 0603 5%
+80-ESZ336M200AH4EA			2039/0		0.71	TH/CAPACITOR/POLARIZED/KEMET/ESZ/H4					33uF	KEMET							Aluminium Electrolytic Capacitors - Radial Leaded 200V 33uF 20% 105C 8K Hours
+80-MMK5105K63J4LTR			2651/2		0.60	TH/CAPACITOR/UNPOLARIZED/KEMET/MMK/J04				1uF		KEMET							Film Capacitors 63volts 1uF 10% 10%
+806-KLPX-0848A-2-O-G		359/2		0.71	TH/CONNECTOR/RCA/KYCON/KLPX-0848A-2					-		Kycon							RCA Phono Connectors MINI-DIN 7P PLUG CBL MNT W/LARGE SR
+806-KLPX-0848A-2-R			515/1		0.74	TH/CONNECTOR/RCA/KYCON/KLPX-0848A-2					-		Kycon							RCA Phono Connectors PCB RIGHT ANGLE JACK RED
+806-KLPX-0848A-2WG			0/1			0.92	TH/CONNECTOR/RCA/KYCON/KLPX-0848A-2					-		Kycon							RCA Phono Connectors PCB RIGHT ANGLE JACK WHITE/GOLD
+806-STX-31205B284C			1633		0.73	TH/CONNECTOR/PHONE/STEREO-5P/KYCON/STX-3120-5		-		Kycon							Phone Connectors 3.5mm PCB STEREO JAK 5P W/SWITCH BLUE
+806-STX-31205B577C			2294		0.73	TH/CONNECTOR/PHONE/STEREO-5P/KYCON/STX-3120-5		-		Kycon							Phone Connectors 3.5mm PCB STEREO JAK 5P W/SWITCH GREEN
+81-GRM1885C1H182JA01		30006		0.11	0603												1800pF	Murata Electronics				Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 1800pF 50volts C0G 5%
+81-GRM1885C1H392JA1D		45855		0.18	0603												3900pF	Murata Electronics				Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 3900pF 50volt C0G +/-5%
+81-GRM1885C1H562JA1D		99178		0.17	0603												5600pF	Murata Electronics				Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 5,600pF 50volts C0G +/-5%
+81-GRM1885C1H622JA1D		4674		0.18	0603												6200pF	Murata Electronics				Multilayer Ceramic Capacitors MLCC - SMD/SMT
+81-GRM2165C1H472JA1D		79259/9		0.25	0805												4700pF	Murata Electronics				Multilayer Ceramic Capacitors MLCC - SMD/SMT 4700PF 50V 5%
+81-GRM31C5C1H683JA01		59359/9		0.55	1206												0.068uF	Murata Electronics				Multilayer Ceramic Capacitors MLCC - SMD/SMT 1206 0.068uF 50volts C0G 5%
+810-C2012C0G2A332J			28987/8		0.18	0805												3300pF	TDK								Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 100V 3300pF C0G 5% T: 1.25mm
+810-C2012X7R1V335KAC		59620		0.47	0805												3.3uF	TDK								Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 35V 3.3uF X7R 10% T: 1.25mm
+810-CGA4J1X7R1E475MA		1463		0.46	0805												4.7uF	TDK								Multilayer Ceramic Capacitors MLCC - SMD/SMT SOFT 0805 25V 4.7uF X7R 20% AEC-Q200
+810-MLZ2012M470WT000		22314/8		0.13	0805												47uH	TDK								Fixed Inductors 47 UH 20%
+815-ABM10-24.576E20T		1886/1		1.23	SMT/CRYSTAL/ABRACON/ABM10							-		ABRACON							Crystals CRYSTAL 24.5760MHZ 10PF SMD
+963-FBMJ2125HM330-TV		11675/9		0.18	0805												-		Taiyo Yuden						Ferrite Beads HI CUR CHIP BD 0805 AEC-Q200 33OHMS 25%
+667-ECQ-E1225JF3			417			1.29	CAPACITOR/PANASONIC/ECQE1225						2.2uF	Panasonic						Film Capacitors 100VDC 2.2uF 5% MPET L/S=5 mm

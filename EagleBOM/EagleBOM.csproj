@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{FCC7E6E3-7B29-49DF-924E-FBAC079F1EEC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EagleBOM</RootNamespace>
+    <RootNamespace>Norris.EagleBOM</RootNamespace>
     <AssemblyName>EagleBOM</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -46,8 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommandLine.cs" />
+    <Compile Include="Device.cs" />
+    <Compile Include="Package.cs" />
+    <Compile Include="Schematic.cs" />
+    <Compile Include="BomEntry.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StockFile.cs" />
+    <Compile Include="StockPart.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
